@@ -26,6 +26,8 @@ var budgetController = (function () {
         this.value = value;
     };
 
+    
+    
     var calculateTotal = function (type) {
         var sum = 0;
 
